@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marc and I'm a young boy ;), from Germany</p>
+<p align="left">My name is Marc and I'm a young boy 😝, from Germany</p>
 
 ###
 
