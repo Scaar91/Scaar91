@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Marc and I'm a young boy ;), from Germany</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning HTML / CSS / Javascript<br>🎯 Goals: Data Science<br>🎲 Fun fact: “I plan my life… and then ignore the plan.” 😄</p>
 
 ###
 
